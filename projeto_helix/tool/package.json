@@ -1,0 +1,9 @@
+{
+  "name": "helix-design-tools",
+  "private": true,
+  "description": "Optional offline asset and preview generators",
+  "devDependencies": {
+    "sharp": "0.35.4"
+  }
+}
+

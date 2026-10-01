@@ -1,0 +1,113 @@
+{
+  "configurations": [
+    {
+      "name": "Helix: welcome",
+      "request": "launch",
+      "program": "lib/main.dart",
+      "toolArgs": [
+        "--dart-define=HELIX_SCREEN=welcome"
+      ],
+      "type": "dart"
+    },
+    {
+      "name": "Helix: register",
+      "request": "launch",
+      "program": "lib/main.dart",
+      "toolArgs": [
+        "--dart-define=HELIX_SCREEN=register"
+      ],
+      "type": "dart"
+    },
+    {
+      "name": "Helix: login",
+      "request": "launch",
+      "program": "lib/main.dart",
+      "toolArgs": [
+        "--dart-define=HELIX_SCREEN=login"
+      ],
+      "type": "dart"
+    },
+    {
+      "name": "Helix: home",
+      "request": "launch",
+      "program": "lib/main.dart",
+      "toolArgs": [
+        "--dart-define=HELIX_SCREEN=home"
+      ],
+      "type": "dart"
+    },
+    {
+      "name": "Helix: profile",
+      "request": "launch",
+      "program": "lib/main.dart",
+      "toolArgs": [
+        "--dart-define=HELIX_SCREEN=profile"
+      ],
+      "type": "dart"
+    },
+    {
+      "name": "Helix: concepts",
+      "request": "launch",
+      "program": "lib/main.dart",
+      "toolArgs": [
+        "--dart-define=HELIX_SCREEN=concepts"
+      ],
+      "type": "dart"
+    },
+    {
+      "name": "Helix: videos",
+      "request": "launch",
+      "program": "lib/main.dart",
+      "toolArgs": [
+        "--dart-define=HELIX_SCREEN=videos"
+      ],
+      "type": "dart"
+    },
+    {
+      "name": "Helix: sites",
+      "request": "launch",
+      "program": "lib/main.dart",
+      "toolArgs": [
+        "--dart-define=HELIX_SCREEN=sites"
+      ],
+      "type": "dart"
+    },
+    {
+      "name": "Helix: flashcard",
+      "request": "launch",
+      "program": "lib/main.dart",
+      "toolArgs": [
+        "--dart-define=HELIX_SCREEN=flashcard"
+      ],
+      "type": "dart"
+    },
+    {
+      "name": "Helix: flashcards",
+      "request": "launch",
+      "program": "lib/main.dart",
+      "toolArgs": [
+        "--dart-define=HELIX_SCREEN=flashcards"
+      ],
+      "type": "dart"
+    },
+    {
+      "name": "Helix: alterations",
+      "request": "launch",
+      "program": "lib/main.dart",
+      "toolArgs": [
+        "--dart-define=HELIX_SCREEN=alterations"
+      ],
+      "type": "dart"
+    },
+    {
+      "name": "Helix: detail",
+      "request": "launch",
+      "program": "lib/main.dart",
+      "toolArgs": [
+        "--dart-define=HELIX_SCREEN=detail"
+      ],
+      "type": "dart"
+    }
+  ],
+  "version": "0.2.0"
+}
